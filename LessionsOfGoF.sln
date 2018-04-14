@@ -15,11 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory.Test", "Simpl
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99.Tools", "99.Tools", "{9F7AB5E2-7CFC-4F06-BD41-57BB456CA82D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{1A9E7B23-BFC4-436C-9891-EA26F8C42B2F}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\HotCoffee\Desktop\docs\ReadMe.txt = C:\Users\HotCoffee\Desktop\docs\ReadMe.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
